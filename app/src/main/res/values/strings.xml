@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Weather Api</string>
+
+    <string name="api_key">9105c08fd7019d9fa51cc2e3c79e6f76</string>
+    <string name="text_current_weather">Min: %1$d°, max: %2$d°</string>
+    <string name="title_current_weather">%1$d°</string>
+</resources>
